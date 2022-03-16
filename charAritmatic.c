@@ -14,3 +14,8 @@ void main() {
     printf("a+10 as char: %c\n",c2);
     printf("a+10 as int : %d\n",c2);
 }
+
+// the output will be..
+// A-a as int : -32
+// a+10 as char: k
+// a+10 as int : 107
