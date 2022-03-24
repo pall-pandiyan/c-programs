@@ -2,5 +2,7 @@
 
 int main() {
     printf("%x \n",-1<<3);
+    printf("%x \n",-1<<3);
+    printf("%x \n",-1<<3);
     return 1;
 }

@@ -1,3 +1,5 @@
+// this program will get a input from user and count down to 1
+
 #include<stdio.h>
 int main() {
     int target;
@@ -8,3 +10,6 @@ int main() {
     printf("\n");
     return 1;
 }
+
+// input = 5
+// output = 5 4 3 2 1
