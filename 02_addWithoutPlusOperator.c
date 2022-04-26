@@ -10,3 +10,11 @@ int main() {
     printf("\nSum = %d\n", sum); 
     return 0;
 }
+
+// the output will be...
+
+// Please enter two numbers: 105 215
+// A is 105
+// B is 215
+
+// Sum = 320
